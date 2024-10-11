@@ -1,2 +1,2 @@
-# Diabetes_Prediction_Mode-
+# Diabetes_Prediction_Model
 Intro to Machine Learning summative
