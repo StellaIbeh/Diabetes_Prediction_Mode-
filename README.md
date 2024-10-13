@@ -43,6 +43,7 @@ The project successfully illustrates the application of CNNs in medical data cla
 
 
 Instructions for Running the Notebook
+
 Prerequisites: Ensure Python 3.x is installed and that all required libraries are available.
 
 Download the Notebook: Clone or download the project repository.
@@ -54,6 +55,7 @@ Load the Dataset: Ensure the dataset file is located in the correct directory an
 Run the Cells: Execute the notebook cells to preprocess data, build, train, and evaluate the models.
 
 Loading Saved Models
+
 Import Libraries: Make sure to import the necessary libraries for loading the models.
 
 Load Models: Load the saved vanilla and optimized models.
