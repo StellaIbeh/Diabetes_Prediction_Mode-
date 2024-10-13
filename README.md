@@ -41,3 +41,24 @@ The simple CNN model provided a decent baseline, but the optimized model demonst
 Conclusion
 The project successfully illustrates the application of CNNs in medical data classification. The optimized model shows a better ability to generalize and classify diabetes presence, highlighting the importance of optimization techniques in enhancing model performance
 
+
+Instructions for Running the Notebook
+Prerequisites: Ensure Python 3.x is installed and that all required libraries are available.
+
+Download the Notebook: Clone or download the project repository.
+
+Open the Notebook: Navigate to the project directory and launch Jupyter Notebook. Open the relevant notebook file (e.g., diabetes_prediction.ipynb).
+
+Load the Dataset: Ensure the dataset file is located in the correct directory and adjust the file path if necessary.
+
+Run the Cells: Execute the notebook cells to preprocess data, build, train, and evaluate the models.
+
+Loading Saved Models
+Import Libraries: Make sure to import the necessary libraries for loading the models.
+
+Load Models: Load the saved vanilla and optimized models.
+
+Make Predictions: Use the loaded models to make predictions on new data.
+
+Follow these steps to successfully run the notebook and utilize the trained models for predictions.
+
