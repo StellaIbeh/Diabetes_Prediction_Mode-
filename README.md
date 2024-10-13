@@ -2,7 +2,9 @@ This project aims to develop a machine learning model to classify diabetes prese
 
 Model Overview
 Simple CNN Model
-A basic Convolutional Neural Network (CNN) was constructed to classify diabetes. Key features of the model include:
+A basic Convolutional Neural Network (CNN) was constructed to classify diabetes,a CNN model is used because a simple neural network failed to give an accuracy up to 80%, the highest accuracy gotten after optimization was 78% so I had to use a CNN model and it performed better
+
+Key features of the model include:
 
 Architecture: Comprises two convolutional layers, a flatten layer, and two dense layers.
 Activation Functions: ReLU for hidden layers and sigmoid for the output layer.(binary classification)
